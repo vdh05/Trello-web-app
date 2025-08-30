@@ -75,5 +75,3 @@ The app allows users to create boards, manage tasks, assign deadlines, collabora
 
 ---
 
-## 📸 Screenshots (Add later)
-> _You can insert screenshots of boards, dashboard, and analytics here._  
